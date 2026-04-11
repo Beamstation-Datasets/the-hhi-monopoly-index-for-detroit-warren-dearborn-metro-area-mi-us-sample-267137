@@ -1,0 +1,12 @@
+{
+  "export_job_id": "efc3e666-2286-4064-acfd-3940bcaefc6d",
+  "id_short": 267137,
+  "published_at": "2026-04-11T19:11:11Z",
+  "repo_name": "the-hhi-monopoly-index-for-detroit-warren-dearborn-metro-area-mi-us-sample-267137",
+  "sample_asset_name": "beamstation_267137_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/267137/beamstation_267137_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
+  "sample_records": 33,
+  "sample_sha256": "714d013557985ccd0c2aabc6d641a4222f898570e2de6ec33d9f9618d202907c",
+  "sample_size_bytes": 139999,
+  "total_records": 338
+}
