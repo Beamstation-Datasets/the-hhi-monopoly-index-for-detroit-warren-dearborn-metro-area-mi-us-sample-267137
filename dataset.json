@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Detroit-Warren-Dearborn Metro Area, MI, US",
+  "export_job_id": "efc3e666-2286-4064-acfd-3940bcaefc6d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 267137,
+  "location_name": "Detroit-Warren-Dearborn, MI",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-detroit-warren-dearborn-metro-area-mi-us-sample-267137",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/267137/beamstation_267137_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
+  "sample_pct": 9.76,
+  "sample_records": 33,
+  "sample_sha256": "714d013557985ccd0c2aabc6d641a4222f898570e2de6ec33d9f9618d202907c",
+  "sample_size_bytes": 139999,
+  "total_records": 338,
+  "updated_at": "2026-04-07T23:48:07.431803+00:00"
+}
